@@ -19,12 +19,15 @@ h2,
 h3 {
   color: rgb(191, 49, 0);
   text-transform: uppercase;
-  font-style: oblique;
+  font-style: regular;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 2em;
 }
 ul,
 p,
 ol {
   color: rgb(22, 105, 122);
+  font-family: 'Jomhuria', cursive;
 }
 img {
   border-radius: 30px;
