@@ -7,6 +7,31 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 1;
   min-height: 100%;
+}
+
+body {
+  background-color: rgb(231, 216, 206);
+}
+h1,
+h2,
+h3 {
+  color: rgb(191, 49, 0);
+  text-transform: uppercase;
+  font-style: oblique;
+}
+ul,
+p,
+ol {
+  color: rgb(22, 105, 122);
+}
+img {
+  border-radius: 30px;
+}
+h1 {
+  margin: 3em 3em;
+  background-color: rgb(125, 207, 182);
+  border: 1px black;
+  text-shadow: 3px 3px 1px rgba(0, 0, 0, 0.219);
 }
